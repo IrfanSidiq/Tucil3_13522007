@@ -57,7 +57,7 @@ Pengembangan kedepannya dapat dilakukan dengan menambahkan fitur berikut:
 ## Acknowledgements
 
 Ucapan terima kasih diberikan kepada:
-- Pak Rinaldi Munir selaku dosen mata kuliah IF2211 yang telah mengajarkan materi divide and conquer
+- Pak Rinaldi Munir selaku dosen mata kuliah IF2211 yang telah mengajarkan materi UCS, Greedy Best-First Search, dan A*
 - Tim Asisten yang telah membimbing untuk membuat tugas kecil 3 ini
 
 ## Creator
